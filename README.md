@@ -1,2 +1,5 @@
 # GlowHockey
-Just trying to create a glow hockey game
+
+![glow hockey title](https://github.com/ZerZru/GlowHockey/blob/master/title.png)
+
+At this moment, this repository have just snapshots images
